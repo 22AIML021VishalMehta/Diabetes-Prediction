@@ -48,9 +48,22 @@ This dataset provides a valuable opportunity to develop a predictive model for d
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/22AIML021VishalMehta/Diabetes-Prediction-Project.git
+   git clone https://github.com/22AIML021VishalMehta/Diabetes-Prediction.git
 2. Navigate to the project folder:
    ```bash
-     cd Diabetes-Prediction-Project
-4. Install the required dependencies:
-5. Run the model script:
+     cd Diabetes-Prediction
+3. Install the required dependencies:
+   ```bash
+      pip install -r requirements.txt
+4. Run the model script:
+
+## Results
+The model predicts whether a person is diabetic based on the given input features. The results are evaluated based on accuracy, precision, recall, and F1-score.
+
+## Why include this in the `README.md`?
+- **Clarity**: It helps users or collaborators understand the steps to quickly get started with the project.
+- **Reusability**: It ensures that anyone who clones your project can replicate the environment and run the model without confusion.
+
+If you have any specific commands or configurations related to running the model (e.g., setting up environment variables or using a particular Python version), those can be added as well.
+
+Let me know if you'd like more help with that or if there's anything else!

@@ -60,6 +60,9 @@ This dataset provides a valuable opportunity to develop a predictive model for d
 ## Results
 The model predicts whether a person is diabetic based on the given input features. The results are evaluated based on accuracy, precision, recall, and F1-score.
 
+## License
+This project is licensed under the **MIT License** - see the `LICENSE` file for details.
+
 ## Why include this in the `README.md`?
 - **Clarity**: It helps users or collaborators understand the steps to quickly get started with the project.
 - **Reusability**: It ensures that anyone who clones your project can replicate the environment and run the model without confusion.

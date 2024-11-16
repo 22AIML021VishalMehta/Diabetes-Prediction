@@ -44,3 +44,13 @@ This dataset provides a valuable opportunity to develop a predictive model for d
 - `Health_Care_Prediction_for_Diabetic_Patients.ipynb`: The main Python script for data preprocessing, model training, and evaluation.
 - `data/health care diabetes.csv`: The dataset used for training the model.
 - `requirements.txt`: The list of Python libraries required to run the project.
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/22AIML021VishalMehta/Diabetes-Prediction-Project.git
+2. Navigate to the project folder:
+   ```bash
+     cd Diabetes-Prediction-Project
+4. Install the required dependencies:
+5. Run the model script:
